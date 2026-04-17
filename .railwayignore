@@ -1,0 +1,6 @@
+node_modules
+dist
+.claude
+attached_assets
+html-version
+client

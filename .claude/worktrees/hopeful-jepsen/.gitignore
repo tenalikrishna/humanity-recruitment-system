@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gzattached_assets/
+html-version/assets/Pradeep_video_1766981787336.mp4
+html-version/assets/impact_story_video_2_1767161343536.mp4
+attached_assets/
+html-version/
+node_modules/
+dist/
+*.mp4
